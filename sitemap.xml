@@ -3,42 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://caramelise.github.io/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url><url>
     <loc>https://caramelise.github.io/category/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caramelise.github.io/recipes/classic-lasagna/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caramelise.github.io/cuisine/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caramelise.github.io/tags/dessert/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <loc>https://caramelise.github.io/category/dinner/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caramelise.github.io/category/dessert/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <loc>https://caramelise.github.io/tags/family/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caramelise.github.io/tags/melee/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <loc>https://caramelise.github.io/tags/Italian/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caramelise.github.io/cuisine/Italian/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caramelise.github.io/recipes/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://caramelise.github.io/tags/strawberry/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://caramelise.github.io/recipes/strawberry-brownies/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caramelise.github.io/tags/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caramelise.github.io/cuisine/USA/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <loc>https://caramelise.github.io/tags/Dessert/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://caramelise.github.io/tags/valentines/</loc>
-    <lastmod>2022-08-13T00:00:00+12:00</lastmod>
+    <loc>https://caramelise.github.io/category/Dessert/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caramelise.github.io/tags/fruit/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caramelise.github.io/recipes/red-berry-tart/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caramelise.github.io/cuisine/american/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caramelise.github.io/recipes/best-big-fat-chewy-chocolate-chip-cookie/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://caramelise.github.io/tags/Breakfast/</loc>
@@ -47,7 +57,21 @@
     <loc>https://caramelise.github.io/category/Breakfast/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://caramelise.github.io/tags/chocolate/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caramelise.github.io/tags/cookies/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://caramelise.github.io/recipes/easy-pancakes/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://caramelise.github.io/components/</loc>
+  </url><url>
+    <loc>https://caramelise.github.io/components/graham-cracker-crust/</loc>
+  </url><url>
+    <loc>https://caramelise.github.io/components/red-berry-dessert-topping/</loc>
+  </url><url>
+    <loc>https://caramelise.github.io/components/vanilla-custard-filling/</loc>
   </url>
 </urlset>
