@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuisine on Caramelise</title>
-    <link>https://caramelise.github.com/cuisine/</link>
+    <link>https://caramelise.github.io/cuisine/</link>
     <description>Recent content in Cuisine on Caramelise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2022 00:00:00 +1200</lastBuildDate><atom:link href="https://caramelise.github.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 00:00:00 +1200</lastBuildDate><atom:link href="https://caramelise.github.io/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>USA</title>
-      <link>https://caramelise.github.com/cuisine/USA/</link>
+      <link>https://caramelise.github.io/cuisine/USA/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +1200</pubDate>
       
-      <guid>https://caramelise.github.com/cuisine/USA/</guid>
+      <guid>https://caramelise.github.io/cuisine/USA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>american</title>
-      <link>https://caramelise.github.com/cuisine/american/</link>
+      <link>https://caramelise.github.io/cuisine/american/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://caramelise.github.com/cuisine/american/</guid>
+      <guid>https://caramelise.github.io/cuisine/american/</guid>
       <description></description>
     </item>
     
